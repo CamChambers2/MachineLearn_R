@@ -1,5 +1,5 @@
 # conda_binder
-Basic Conda based Binder
+
 
 
 # Jupyter_Binder
